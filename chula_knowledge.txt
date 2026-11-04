@@ -1,0 +1,209 @@
+CHULA STUDENT ASSISTANT AI — VERIFIED STARTER KNOWLEDGE BASE
+Compiled: 2026-11-03. Public official university sources.
+This is a curated starter corpus, NOT all university information. Time-sensitive details must be rechecked.
+
+[01] CATEGORY: University
+QUESTION: Where is Chulalongkorn University?
+ANSWER: Chulalongkorn University is in central Bangkok, Thailand, in the Pathum Wan area.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/map-and-directions/
+
+[02] CATEGORY: University
+QUESTION: How do I find a campus map?
+ANSWER: Use the CU Map link on the Faculty of Arts Map & Directions page. Check the map for your specific building before traveling.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/map-and-directions/
+
+[03] CATEGORY: Transport
+QUESTION: Which MRT station is near Chula?
+ANSWER: Sam Yan MRT station is next to Chulalongkorn University. Exit 2 connects toward Chamchuri Square and the university.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/map-and-directions/
+
+[04] CATEGORY: Transport
+QUESTION: Which BTS stations are near Chula?
+ANSWER: Siam and National Stadium BTS stations are relatively close to the university. Check the current shuttle route before traveling.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/map-and-directions/
+
+[05] CATEGORY: Transport
+QUESTION: Is the CU POP BUS free?
+ANSWER: Yes. CU POP BUS is a free electric shuttle bus service at Chulalongkorn University.
+SOURCE: https://www.hrm.chula.ac.th/en/home/cu-pop-bus-parking
+
+[06] CATEGORY: Transport
+QUESTION: How can I track a CU POP BUS?
+ANSWER: Use the ViaBus app to view CU shuttle bus routes, stops, and real-time bus locations. In ViaBus, add the Chulalongkorn University transport system.
+SOURCE: https://www.hrm.chula.ac.th/en/home/cu-pop-bus-parking
+
+[07] CATEGORY: Transport
+QUESTION: When does the CU POP BUS operate?
+ANSWER: The university HR information page lists Monday–Saturday, 7:00 AM–7:00 PM, with only Routes 1 and 2 on Saturdays. This may change; verify the latest schedule with CU POP BUS.
+SOURCE: https://www.hrm.chula.ac.th/en/home/cu-pop-bus-parking
+
+[08] CATEGORY: Transport
+QUESTION: Who can I contact about CU POP BUS?
+ANSWER: The Office of Physical Resources Management lists hotline 02-113-1019 and the CU POP BUS Facebook page for inquiries.
+SOURCE: https://www.hrm.chula.ac.th/en/home/cu-pop-bus-parking
+
+[09] CATEGORY: Transport
+QUESTION: Where can visitors park?
+ANSWER: University guidance lists visitor parking at Chamchuri 9, a parking building next to the Faculty of Arts, another next to Political Science, and another next to Chulapat Building 14. Check current access and fees.
+SOURCE: https://www.hrm.chula.ac.th/en/home/cu-pop-bus-parking
+
+[10] CATEGORY: Library
+QUESTION: Where is the Central Library?
+ANSWER: The Office of Academic Resources (Central Library) is near the Faculty of Education.
+SOURCE: https://www.arts.chula.ac.th/libsci/student-life/library-services/
+
+[11] CATEGORY: Library
+QUESTION: Can Chula students use the Central Library?
+ANSWER: Students are automatically members of the Chulalongkorn University Library Network (CHULALINET), subject to library rules.
+SOURCE: https://www.arts.chula.ac.th/libsci/student-life/library-services/
+
+[12] CATEGORY: Library
+QUESTION: Can I borrow books?
+ANSWER: The Central Library provides circulation and borrowing services under its current lending rules.
+SOURCE: https://www.arts.chula.ac.th/libsci/student-life/library-services/
+
+[13] CATEGORY: Library
+QUESTION: Are there group study rooms?
+ANSWER: The Central Library lists group study rooms on the second floor. Check availability and reservation rules with the library.
+SOURCE: https://www.arts.chula.ac.th/libsci/student-life/library-services/
+
+[14] CATEGORY: Library
+QUESTION: Where can I print or scan?
+ANSWER: The Central Library lists self-service printing, photocopying and scanning among first-floor services. Verify current equipment availability.
+SOURCE: https://www.arts.chula.ac.th/libsci/student-life/library-services/
+
+[15] CATEGORY: Library
+QUESTION: Where can I search academic journals or theses?
+ANSWER: The Chulalongkorn University Library Network provides access to library catalogs, academic databases and electronic theses subject to access conditions.
+SOURCE: https://www.arts.chula.ac.th/libsci/student-life/library-services/
+
+[16] CATEGORY: Library
+QUESTION: What time does the Central Library open?
+ANSWER: Opening hours vary by floor and date. Check the official live Libraries & Opening Hours page rather than relying on a fixed schedule.
+SOURCE: https://www.car.chula.ac.th/detail_hour.php
+
+[17] CATEGORY: Library
+QUESTION: Is the Central Library open 24 hours?
+ANSWER: Do not assume 24-hour access. The official timetable currently distinguishes 23-hour access for some areas and shorter hours for other floors; check your date and floor.
+SOURCE: https://www.car.chula.ac.th/detail_hour.php
+
+[18] CATEGORY: Library
+QUESTION: What is UltimateX Library?
+ANSWER: The official library opening-hours page lists UltimateX Library (CUX Library) at the Chaloem Rajakumari 60th Anniversary Building, also known as Chamchuri 10.
+SOURCE: https://www.car.chula.ac.th/detail_hour.php
+
+[19] CATEGORY: Clubs
+QUESTION: Are there student clubs at Chula?
+ANSWER: Yes. Chulalongkorn University lists student clubs across academic, sports, arts and culture, and community-service interests. Confirm current recruitment with the relevant club.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/activities/
+
+[20] CATEGORY: Clubs
+QUESTION: What academic clubs are available?
+ANSWER: The university club listing includes Debate/Public Speaking, Literary Club, Foreign Relations, CU Comp and AIESEC, among others. The listing may not reflect current active status.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/activities/
+
+[21] CATEGORY: Clubs
+QUESTION: What sports clubs are available?
+ANSWER: The university club listing includes football, basketball, badminton, volleyball, tennis, table tennis, rugby, fencing, judo and other sports. Check each club for current activity.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/activities/
+
+[22] CATEGORY: Clubs
+QUESTION: Are there music or arts clubs?
+ANSWER: Examples listed include CU Band, Chorus, Photography, Thai Classical Music and Thai Classical Dance and Dramatic Arts.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/activities/
+
+[23] CATEGORY: Clubs
+QUESTION: Are there volunteering clubs?
+ANSWER: The university lists community-development and public-good clubs such as voluntary work camps, conservation, blood donation and social welfare, and CU Community Work.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/activities/
+
+[24] CATEGORY: Clubs
+QUESTION: How can I join a club?
+ANSWER: Check the latest official club or student-affairs announcements for recruitment dates, requirements and contacts; these change by academic year.
+SOURCE: https://www.arts.chula.ac.th/eng/index.php/activities/
+
+[25] CATEGORY: Student services
+QUESTION: Where is the Office of Student Affairs?
+ANSWER: The university lists the Office of Student Affairs on the second floor of Chulachakrabongse Building, 254 Phaya Thai Road, Wang Mai, Pathum Wan.
+SOURCE: https://www.chula.ac.th/en/departments/studentaffair/
+
+[26] CATEGORY: Student services
+QUESTION: How do I contact Student Affairs?
+ANSWER: The Office of Student Affairs lists studentaffairs@chula.ac.th as its email contact.
+SOURCE: https://www.chula.ac.th/en/departments/studentaffair/
+
+[27] CATEGORY: Student services
+QUESTION: Where can I ask about scholarships?
+ANSWER: Contact the Office of Student Affairs and its Scholarship and Student Services unit for current scholarship information and eligibility.
+SOURCE: https://www.chula.ac.th/en/departments/studentaffair/
+
+[28] CATEGORY: Student services
+QUESTION: Where can I ask about university dormitories?
+ANSWER: The Office of Student Affairs lists a student dormitory unit. Its published contact number is 02-218-3649; confirm current application information directly.
+SOURCE: https://www.chula.ac.th/en/departments/studentaffair/
+
+[29] CATEGORY: Facilities
+QUESTION: Where is the Engineering Library?
+ANSWER: The Faculty of Engineering Library is on the third floor of Engineering Building 3.
+SOURCE: https://www.eng.chula.ac.th/en/about/facilities
+
+[30] CATEGORY: Facilities
+QUESTION: Does Engineering have a library?
+ANSWER: Yes. The Engineering Library supports teaching and research and offers books, journals, theses and other learning materials.
+SOURCE: https://www.eng.chula.ac.th/en/about/facilities
+
+[31] CATEGORY: Facilities
+QUESTION: Are there university dormitories?
+ANSWER: University faculty information describes student dormitories. Availability, eligibility, buildings and applications must be checked with the current dormitory office.
+SOURCE: https://www.eng.chula.ac.th/en/about/facilities
+
+[32] CATEGORY: Buildings
+QUESTION: What is the Mongkutsamatiwong Building?
+ANSWER: The Faculty of Communication Arts describes Mongkutsamatiwong Building (MKSW) as a 12-story building with classrooms, computer rooms, a library, meeting rooms, offices and common areas.
+SOURCE: https://www.commarts.chula.ac.th/en/facilities/
+
+[33] CATEGORY: Buildings
+QUESTION: What is the Phinitprachanat Building?
+ANSWER: Phinitprachanat Building (PINIT) is a shared building used by the Faculty of Communication Arts and Faculty of Law; it includes classrooms, a cafeteria and common areas.
+SOURCE: https://www.commarts.chula.ac.th/en/facilities/
+
+[34] CATEGORY: Buildings
+QUESTION: Where is the Faculty of Communication Arts?
+ANSWER: The Faculty of Communication Arts lists its address as 254 Phaya Thai Road, Wang Mai, Pathum Wan, Bangkok 10330.
+SOURCE: https://www.commarts.chula.ac.th/en/facilities/
+
+[35] CATEGORY: Activities
+QUESTION: What is the CBS Student Union?
+ANSWER: The Chulalongkorn Business School Student Union (SMO) represents students of the Faculty of Commerce and Accountancy and supports academic, well-being and campus-life initiatives.
+SOURCE: https://www.cbs.chula.ac.th/student-life/student-activities
+
+[36] CATEGORY: Activities
+QUESTION: What business-related student clubs are listed at CBS?
+ANSWER: CBS lists ACC Club Chula, CUFinClub, Marketing Club, CU Commerce Club and Stat Club, among others.
+SOURCE: https://www.cbs.chula.ac.th/student-life/student-activities
+
+[37] CATEGORY: Activities
+QUESTION: Does CBS offer volunteering or social-impact activities?
+ANSWER: Its student-activities page lists social-development and volunteering projects, including community outreach and CSR-related activities.
+SOURCE: https://www.cbs.chula.ac.th/student-life/student-activities
+
+[38] CATEGORY: Facilities
+QUESTION: Is bike sharing available around campus?
+ANSWER: A Chulalongkorn University campus guide describes Anywheel bike sharing as a mobility option. Check the operator app for current availability and pricing.
+SOURCE: https://www.chula.ac.th/resources/A-Quick-Tour-of-Chulalongkorn-University-Updated-May-2023-20230719.pdf
+
+[39] CATEGORY: Safety and limitations
+QUESTION: Can you tell me the current exam schedule?
+ANSWER: I do not have a verified live exam schedule. Please consult your course syllabus, faculty announcements or official learning platform.
+SOURCE: https://www.chula.ac.th/en/departments/studentaffair/
+
+[40] CATEGORY: Safety and limitations
+QUESTION: Can you tell me my grades or student ID?
+ANSWER: No. I do not have access to personal student records. Use authorized university systems and never share passwords with the chatbot.
+SOURCE: https://www.chula.ac.th/en/departments/studentaffair/
+
+[41] CATEGORY: Safety and limitations
+QUESTION: What events are happening today?
+ANSWER: I cannot reliably verify live event schedules from this static knowledge base. Check current official faculty, club and university announcements.
+SOURCE: https://www.chula.ac.th/en/departments/studentaffair/
+
