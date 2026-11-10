@@ -1,3 +1,1 @@
-# Uses Python standard library for Ollama HTTP requests.
-# Install Ollama separately: https://ollama.com/download
-# For local notebooks, install Jupyter if needed: pip install notebook
+requests
